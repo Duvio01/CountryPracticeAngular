@@ -16,6 +16,7 @@
 <div class="row">
     <div class="col">
         <hr>
+        <shared-loading-spinner *ngIf="isLoading" />
         <countries-table [countries]="countries"/>
     </div>
 </div>
