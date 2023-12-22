@@ -1,27 +1,43 @@
-# CountryApp
+<h1>Proyecto de Práctica: Consulta de Países</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
+    <p>Este es un proyecto de práctica que permite realizar consultas sobre información de países. Puedes obtener detalles sobre un país específico, como su bandera, población, capital, idioma y más.</p>
 
-## Development server
+    <h2>Tecnologías Utilizadas</h2>
+    <p>HTML, CSS, JavaScript</p>
+    <p><a href="#">Nombre de la API utilizada</a></p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+    <h2>Funcionalidades</h2>
+    <ul>
+        <li>Consulta de información detallada de un país.</li>
+        <li>Búsqueda de países por nombre.</li>
+        <li>Visualización de la bandera, población, capital, idioma y otras características del país.</li>
+    </ul>
 
-## Code scaffolding
+    <h2>Configuración</h2>
+    <ol>
+        <li><strong>Clona el Repositorio:</strong></li>
+        <pre><code>git clone https://github.com/tu-usuario/consulta-de-paises.git</code></pre>
+        <li><strong>Abre el Proyecto:</strong></li>
+        <p>Abre el archivo <code>index.html</code> en tu navegador web favorito.</p>
+    </ol>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+    <h2>Uso</h2>
+    <ol>
+        <li><strong>Consulta de Información:</strong></li>
+        <ul>
+            <li>Ingresa el nombre del país en el campo de búsqueda.</li>
+            <li>Haz clic en el botón "Buscar".</li>
+            <li>La información del país seleccionado se mostrará en la pantalla.</li>
+        </ul>
+        <li><strong>Exploración de Países:</strong></li>
+        <ul>
+            <li>Explora la lista de países disponibles.</li>
+            <li>Haz clic en un país para ver detalles adicionales.</li>
+        </ul>
+    </ol>
 
-## Build
+    <h2>Contribuciones</h2>
+    <p>Las contribuciones son bienvenidas. Si encuentras errores o mejoras potenciales, no dudes en abrir un problema o enviar un pull request.</p>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+    <h2>Licencia</h2>
+    <p>Este proyecto está bajo la Licencia <a href="#">Nombre de la Licencia</a> - consulta el archivo <code>LICENSE.md</code> para más detalles.</p>
